@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Картофель фри",
+        "description": "",
+        "price": 6,
+        "weight": 150,
+        "category": "Гарниры",
+        "image": "french-fries.jpg"
+    },
+    {
+        "title": "Картофель фри по-американски",
+        "description": "",
+        "price": 8,
+        "weight": 150,
+        "category": "Гарниры",
+        "image": "american-fries.jpg"
+    },
+    {
+        "title": "Картофель по-деревенски",
+        "description": "",
+        "price": 6,
+        "weight": 150,
+        "category": "Гарниры",
+        "image": "country-potatoes.jpg"
+    },
+    {
+        "title": "Наггетсы",
+        "description": "",
+        "price": 8,
+        "weight": 150,
+        "category": "Гарниры",
+        "image": "nuggets.jpg"
+    },
+    {
+        "title": "Кукуруза-гриль",
+        "description": "",
+        "price": 6,
+        "weight": 200,
+        "category": "Гарниры",
+        "image": "grilled-corn.jpg"
+    },
+    {
+        "title": "Овощи гриль",
+        "description": "(кабачок, баклажан, перец болгарский, кукуруза, томаты черри, шампиньоны)",
+        "price": 12,
+        "weight": 400,
+        "category": "Гарниры",
+        "image": "grilled-vegetables.jpg"
+    },
+    {
+        "title": "Завтрак с лососем",
+        "description": "(Филе лосося,крем песто,яйцо отварное,микс салата,чиабатта)",
+        "price": 15,
+        "weight": 300,
+        "category": "Завтраки",
+        "image": "lososy-zavtrak.jpg"
+    },
+    {
+        "title": "Завтрак Мумо",
+        "description": "(Чиабатта,бекон жареный соус трюфельный, омлет, шампиньоны,микс салат )",
+        "price": 12,
+        "weight": 270,
+        "category": "Завтраки",
+        "image": "mumo-zavtrak.jpg"
+    },
+    {
+        "title": "Сырники с кремом из халвы и сметаной",
+        "description": "(Сырники,сметана,крем из халвы,смородина)",
+        "price": 11,
+        "weight": 215,
+        "category": "Завтраки",
+        "image": "syrnikiZavtrak.jpg"
+    },
+    {
+        "title": "Сырный соус",
+        "description": "",
+        "price": 2.50,
+        "weight": 50,
+        "category": "Соусы",
+        "image": "sourCheese.jpg"
+    },
+    {
+        "title": "Кетчуп",
+        "description": "",
+        "price": 2.50,
+        "weight": 50,
+        "category": "Соусы",
+        "image": "ketchup.jpg"
+    },
+    {
+        "title": "BBQ соус",
+        "description": "",
+        "price": 2.50,
+        "weight": 50,
+        "category": "Соусы",
+        "image": "bbq.jpg"
+    },
+    {
+        "title": "Острый соус",
+        "description": "",
+        "price": 2.50,
+        "weight": 50,
+        "category": "Соусы",
+        "image": "hotSauce.jpg"
+    },
+    {
+        "title": "Чесночный соус",
+        "description": "",
+        "price": 2.50,
+        "weight": 50,
+        "category": "Соусы",
+        "image": "garlicSauce.jpg"
+    },
+    {
+        "title": "Азиатский соус",
+        "description": "",
+        "price": 2.50,
+        "weight": 50,
+        "category": "Соусы",
+        "image": "asianSauce.jpg"
+    },
+    {
+        "title": "Трюфельный соус",
+        "description": "",
+        "price": 2.50,
+        "weight": 50,
+        "category": "Соусы",
+        "image": "truffleSauce.jpg"
+    },
+    {
+        "title": "Клюквенный морс",
+        "description": "",
+        "price": 5.50,
+        "weight": 300,
+        "category": "Морсы",
+        "image": "cranberry.jpg"
+    },
+    {
+        "title": "Клубника-вишня морс",
+        "description": "",
+        "price": 5.50,
+        "weight": 300,
+        "category": "Морсы",
+        "image": "strawberry-cherry.jpg"
+    },
+    {
+        "title": "Облепиха-малина морс",
+        "description": "",
+        "price": 5.50,
+        "weight": 300,
+        "category": "Морсы",
+        "image": "seabuckthorn-raspberry.jpg"
+    },
+    {
+        "title": "Комбо",
+        "description": "Соус на выбор, Чизбургер, Морс на выбор",
+        "price": 15,
+        "weight": 600,
+        "category": "Комбо",
+        "image": "sauceCombo.jpg"
+    }
+]
