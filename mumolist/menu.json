@@ -13,7 +13,7 @@
         "price": 8,
         "weight": 150,
         "category": "Гарниры",
-        "image": "american-fries.jpg"
+        "image": "images/american-fries.jpg"
     },
     {
         "title": "Картофель по-деревенски",
@@ -21,7 +21,7 @@
         "price": 6,
         "weight": 150,
         "category": "Гарниры",
-        "image": "country-potatoes.jpg"
+        "image": "images/country-potatoes.jpg"
     },
     {
         "title": "Наггетсы",
@@ -29,7 +29,7 @@
         "price": 8,
         "weight": 150,
         "category": "Гарниры",
-        "image": "nuggets.jpg"
+        "image": "images/nuggets.jpg"
     },
     {
         "title": "Кукуруза-гриль",
@@ -37,7 +37,7 @@
         "price": 6,
         "weight": 200,
         "category": "Гарниры",
-        "image": "grilled-corn.jpg"
+        "image": "images/grilled-corn.jpg"
     },
     {
         "title": "Овощи гриль",
@@ -45,7 +45,7 @@
         "price": 12,
         "weight": 400,
         "category": "Гарниры",
-        "image": "grilled-vegetables.jpg"
+        "image": "images/grilled-vegetables.jpg"
     },
     {
         "title": "Завтрак с лососем",
@@ -53,7 +53,7 @@
         "price": 15,
         "weight": 300,
         "category": "Завтраки",
-        "image": "lososy-zavtrak.jpg"
+        "image": "images/lososy-zavtrak.jpg"
     },
     {
         "title": "Завтрак Мумо",
@@ -61,7 +61,7 @@
         "price": 12,
         "weight": 270,
         "category": "Завтраки",
-        "image": "mumo-zavtrak.jpg"
+        "image": "images/mumo-zavtrak.jpg"
     },
     {
         "title": "Сырники с кремом из халвы и сметаной",
@@ -69,7 +69,7 @@
         "price": 11,
         "weight": 215,
         "category": "Завтраки",
-        "image": "syrnikiZavtrak.jpg"
+        "image": "images/syrnikiZavtrak.jpg"
     },
     {
         "title": "Сырный соус",
@@ -77,7 +77,7 @@
         "price": 2.50,
         "weight": 50,
         "category": "Соусы",
-        "image": "sourCheese.jpg"
+        "image": "images/sourCheese.jpg"
     },
     {
         "title": "Кетчуп",
@@ -85,7 +85,7 @@
         "price": 2.50,
         "weight": 50,
         "category": "Соусы",
-        "image": "ketchup.jpg"
+        "image": "images/ketchup.jpg"
     },
     {
         "title": "BBQ соус",
@@ -93,7 +93,7 @@
         "price": 2.50,
         "weight": 50,
         "category": "Соусы",
-        "image": "bbq.jpg"
+        "image": "images/bbq.jpg"
     },
     {
         "title": "Острый соус",
@@ -101,7 +101,7 @@
         "price": 2.50,
         "weight": 50,
         "category": "Соусы",
-        "image": "hotSauce.jpg"
+        "image": "images/hotSauce.jpg"
     },
     {
         "title": "Чесночный соус",
@@ -109,7 +109,7 @@
         "price": 2.50,
         "weight": 50,
         "category": "Соусы",
-        "image": "garlicSauce.jpg"
+        "image": "images/garlicSauce.jpg"
     },
     {
         "title": "Азиатский соус",
@@ -117,7 +117,7 @@
         "price": 2.50,
         "weight": 50,
         "category": "Соусы",
-        "image": "asianSauce.jpg"
+        "image": "images/asianSauce.jpg"
     },
     {
         "title": "Трюфельный соус",
@@ -125,7 +125,7 @@
         "price": 2.50,
         "weight": 50,
         "category": "Соусы",
-        "image": "truffleSauce.jpg"
+        "image": "images/truffleSauce.jpg"
     },
     {
         "title": "Клюквенный морс",
@@ -133,7 +133,7 @@
         "price": 5.50,
         "weight": 300,
         "category": "Морсы",
-        "image": "cranberry.jpg"
+        "image": "images/cranberry.jpg"
     },
     {
         "title": "Клубника-вишня морс",
@@ -141,7 +141,7 @@
         "price": 5.50,
         "weight": 300,
         "category": "Морсы",
-        "image": "strawberry-cherry.jpg"
+        "image": "images/strawberry-cherry.jpg"
     },
     {
         "title": "Облепиха-малина морс",
@@ -149,7 +149,7 @@
         "price": 5.50,
         "weight": 300,
         "category": "Морсы",
-        "image": "seabuckthorn-raspberry.jpg"
+        "image": "images/seabuckthorn-raspberry.jpg"
     },
     {
         "title": "Комбо",
@@ -157,6 +157,6 @@
         "price": 15,
         "weight": 600,
         "category": "Комбо",
-        "image": "sauceCombo.jpg"
+        "image": "images/combo.jpg"
     }
 ]
