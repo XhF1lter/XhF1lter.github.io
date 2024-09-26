@@ -152,6 +152,14 @@
         "image": "images/seabuckthorn-raspberry.jpg"
     },
     {
+        "title": "Кола",
+        "description": "",
+        "price": 0,
+        "weight": 330,
+        "category": "Кола",
+        "image": "images/cola.jpg"
+    },
+    {
         "title": "Комбо",
         "description": "Соус на выбор, Чизбургер, Морс на выбор",
         "price": 15,
